@@ -1,3 +1,4 @@
+[![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)]
 <h1 align="center">Hi 👋, I'm SAHIL KUMAR and welcome to my GitHub profile</h1>
 <h3 align="center">A passionate DATA ANALYTICS from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -57,4 +58,3 @@ https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_drib
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilkumar1416&show_icons=true&locale=en" alt="sahilkumar1416" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkumar1416&" alt="sahilkumar1416" /></p>
-
